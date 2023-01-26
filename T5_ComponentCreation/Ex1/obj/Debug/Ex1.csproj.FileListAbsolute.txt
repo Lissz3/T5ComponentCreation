@@ -1,0 +1,8 @@
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\bin\Debug\Ex1.dll
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\bin\Debug\Ex1.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.LabelTextBox.resources
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.dll
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Ex1\obj\Debug\Ex1.pdb
