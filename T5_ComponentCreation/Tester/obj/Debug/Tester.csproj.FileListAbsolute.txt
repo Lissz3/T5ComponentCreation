@@ -12,3 +12,17 @@ G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Tester\bin\Debug\Ex
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Tester\bin\Debug\Ex1.pdb
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Tester\obj\Debug\Tester.Form1.resources
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.CopyComplete
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\bin\Debug\Tester.exe.config
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\bin\Debug\Tester.exe
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\bin\Debug\Tester.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\bin\Debug\Ex1.dll
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\bin\Debug\Ex1.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.AssemblyReference.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.Form1.resources
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.Properties.Resources.resources
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.GenerateResource.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.csproj.CopyComplete
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.exe
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\Tester\obj\Debug\Tester.pdb

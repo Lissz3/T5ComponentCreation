@@ -12,3 +12,17 @@ G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\MediaPlayer\obj\Deb
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.CopyComplete
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.exe
 G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\bin\Debug\MediaPlayer.exe
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\bin\Debug\MediaPlayer.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\bin\Debug\Ex1.dll
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\bin\Debug\Ex1.pdb
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.csproj.CopyComplete
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.exe
+G:\Mi unidad\04.DESENV INTERF\2EV\Tema5\T5ComponentCreation\T5_ComponentCreation\MediaPlayer\obj\Debug\MediaPlayer.pdb
