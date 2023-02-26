@@ -16,7 +16,6 @@ namespace Components
 		public WarningLabel()
 		{
 			InitializeComponent();
-
 		}
 
 		int offsetX = 0;
@@ -77,7 +76,6 @@ namespace Components
 			SolidBrush b = new SolidBrush(ForeColor);
 			g.DrawString(Text, Font, b, offsetX + grosor, offsetY);
 			b.Dispose();
-
 		}
 
 		protected override void OnTextChanged(EventArgs e)

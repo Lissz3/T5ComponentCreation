@@ -30,14 +30,16 @@
 		{
 			this.btnPos = new System.Windows.Forms.Button();
 			this.btnSep = new System.Windows.Forms.Button();
+			this.dibujoAhorcado1 = new Ex1.DibujoAhorcado();
 			this.lbltxtP = new Components.LabelTextBox();
 			this.warningLabel1 = new Components.WarningLabel();
+			this.validateTextBox1 = new Ex1.ValidateTextBox();
 			this.SuspendLayout();
 			// 
 			// btnPos
 			// 
 			this.btnPos.AutoSize = true;
-			this.btnPos.Location = new System.Drawing.Point(263, 202);
+			this.btnPos.Location = new System.Drawing.Point(26, 239);
 			this.btnPos.Name = "btnPos";
 			this.btnPos.Size = new System.Drawing.Size(75, 23);
 			this.btnPos.TabIndex = 2;
@@ -47,7 +49,7 @@
 			// 
 			// btnSep
 			// 
-			this.btnSep.Location = new System.Drawing.Point(375, 202);
+			this.btnSep.Location = new System.Drawing.Point(138, 239);
 			this.btnSep.Name = "btnSep";
 			this.btnSep.Size = new System.Drawing.Size(75, 23);
 			this.btnSep.TabIndex = 3;
@@ -55,9 +57,17 @@
 			this.btnSep.UseVisualStyleBackColor = true;
 			this.btnSep.Click += new System.EventHandler(this.btnSep_Click);
 			// 
+			// dibujoAhorcado1
+			// 
+			this.dibujoAhorcado1.Errors = 7;
+			this.dibujoAhorcado1.Location = new System.Drawing.Point(518, 36);
+			this.dibujoAhorcado1.Name = "dibujoAhorcado1";
+			this.dibujoAhorcado1.Size = new System.Drawing.Size(248, 276);
+			this.dibujoAhorcado1.TabIndex = 4;
+			// 
 			// lbltxtP
 			// 
-			this.lbltxtP.Location = new System.Drawing.Point(103, 94);
+			this.lbltxtP.Location = new System.Drawing.Point(26, 99);
 			this.lbltxtP.Name = "lbltxtP";
 			this.lbltxtP.Posicion = Components.ePosicion.IZQUIERDA;
 			this.lbltxtP.PswChar = '\0';
@@ -84,11 +94,23 @@
 			this.warningLabel1.Text = "warningLabel1";
 			this.warningLabel1.ClickMark += new System.EventHandler(this.warningLabel1_ClickMark);
 			// 
+			// validateTextBox1
+			// 
+			this.validateTextBox1.Location = new System.Drawing.Point(290, 147);
+			this.validateTextBox1.Multilinea = false;
+			this.validateTextBox1.Name = "validateTextBox1";
+			this.validateTextBox1.Size = new System.Drawing.Size(157, 40);
+			this.validateTextBox1.TabIndex = 5;
+			this.validateTextBox1.Texto = "";
+			this.validateTextBox1.Tipo = Ex1.ValidateTextBox.eTipo.TEXTUAL;
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.Controls.Add(this.validateTextBox1);
+			this.Controls.Add(this.dibujoAhorcado1);
 			this.Controls.Add(this.btnSep);
 			this.Controls.Add(this.btnPos);
 			this.Controls.Add(this.lbltxtP);
@@ -106,6 +128,8 @@
 		private Components.LabelTextBox lbltxtP;
 		private System.Windows.Forms.Button btnPos;
 		private System.Windows.Forms.Button btnSep;
+		private Ex1.DibujoAhorcado dibujoAhorcado1;
+		private Ex1.ValidateTextBox validateTextBox1;
 	}
 }
 

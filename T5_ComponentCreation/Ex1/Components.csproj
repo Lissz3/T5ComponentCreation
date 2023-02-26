@@ -53,6 +53,18 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="DibujoAhorcado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DibujoAhorcado.Designer.cs">
+      <DependentUpon>DibujoAhorcado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidateTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ValidateTextBox.Designer.cs">
+      <DependentUpon>ValidateTextBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="WarningLabel.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -69,6 +81,9 @@
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="DibujoAhorcado.resx">
+      <DependentUpon>DibujoAhorcado.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LabelTextBox.resx">
       <DependentUpon>LabelTextBox.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +93,9 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidateTextBox.resx">
+      <DependentUpon>ValidateTextBox.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
